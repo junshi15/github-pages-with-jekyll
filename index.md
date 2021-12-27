@@ -2,4 +2,4 @@
 title: "Jun's Blog"
 ---
 
-Let's talk about birds.
+my quail dan ta
